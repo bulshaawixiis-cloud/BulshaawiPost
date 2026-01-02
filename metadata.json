@@ -1,0 +1,7 @@
+{
+  "name": "Women Social Workers - Empowerment Hub",
+  "description": "A professional platform for the Women Social Workers organization, featuring an inspiring digital poster and an AI-powered image animation tool using Gemini Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
